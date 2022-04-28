@@ -1,0 +1,8 @@
+Esse é o primeiro arquivo de texto que criei. 
+A pasta na qual ele será salvo é uma pasta que criei pelo termial, com o comando mkdir.
+
+Criei o arquivo e fui para o terminal e dei git status, a mensagem pedindo para ele ser submetido apareceu. Vou para o terminal fazer isso.
+
+Dei um git add. .
+
+Depois um git commit -m "inclusão"
