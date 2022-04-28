@@ -5,4 +5,7 @@ Criei o arquivo e fui para o terminal e dei git status, a mensagem pedindo para 
 
 Dei um git add. .
 
-Depois um git commit -m "inclusão"
+Depois um git commit -m "incluir pasta1", com esse comando consegui mandar a pasta1 do meu computador para o GitHub. 
+Atualizei a página do GitHub, aparece a pasta1, com o documento1, sem a últimas alterações do documento1(as que estou fazendo agora).
+Então tudo que veio depois da linha 8 não tinha e se aparecer conseguirei atualizar o documento depois de enviado para o GitHub.
+
